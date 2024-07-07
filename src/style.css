@@ -1,0 +1,12 @@
+body {
+    background: url('./coctail.jpg');
+    color: aliceblue;
+    display: grid;
+    place-content: center;
+}
+
+#content{
+    background-color: rgba(44, 44, 44, 0.623);
+    width: 80vw;
+    height: 90vh;
+}
